@@ -15,7 +15,7 @@ buildscript {
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath 'com.android.tools.build:gradle:7.4.2'
-//        classpath 'io.github.stewforani:methodtime:1.0.0'
+//        classpath 'io.github.ishuyunforani:methodtime:1.0.0'
 //        classpath "com.alibaba:arouter-register:1.2.2"
 //        classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
 

@@ -12,7 +12,7 @@ java {
 publishing {
     publications {
         mavenJava(MavenPublication) {
-            groupId "io.github.stewforani"
+            groupId "io.github.ishuyunforani"
             artifactId "methodtime"
             version "1.0.0"
             from components.java
@@ -28,7 +28,7 @@ gradlePlugin {
     plugins {
         MethodTimePlugin {
             id = 'MethodTimePlugin'
-            implementationClass = 'com.stew.app_plugin.AppPlugin'
+            implementationClass = 'com.ishuyun.app_plugin.AppPlugin'
         }
     }
 }

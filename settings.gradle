@@ -5,6 +5,6 @@ include ':kb_project'
 include ':kb_home'
 include ':kb_common'
 include ':app'
-rootProject.name = "KotlinBox"
+rootProject.name = "synthdata"
 include ':kb_web'
 include ':app_plugin'

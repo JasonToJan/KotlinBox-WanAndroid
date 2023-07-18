@@ -55,7 +55,7 @@ apply from: '../dependencies.gradle'
 
 android {
     defaultConfig {
-        applicationId "com.stew.kotlinbox"
+        applicationId "com.ishuyun.synthdata"
     }
 
     buildTypes {

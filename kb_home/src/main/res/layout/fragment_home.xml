@@ -6,12 +6,12 @@
 
     </data>
 
-    <com.stew.kb_common.widget.MySwipeRefreshLayout
+    <com.ishuyun.kb_common.widget.MySwipeRefreshLayout
         android:id="@+id/srl_home"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.stew.kb_home.widget.NSParentLayout2
+        <com.ishuyun.kb_home.widget.NSParentLayout2
             android:id="@+id/ns2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -28,6 +28,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 
-        </com.stew.kb_home.widget.NSParentLayout2>
-    </com.stew.kb_common.widget.MySwipeRefreshLayout>
+        </com.ishuyun.kb_home.widget.NSParentLayout2>
+    </com.ishuyun.kb_common.widget.MySwipeRefreshLayout>
 </layout>

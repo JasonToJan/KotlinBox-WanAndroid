@@ -28,10 +28,10 @@ android {
 
 //    signingConfigs {
 //        release {
-//            storeFile file('/Users/stew/kotlinboxsign/kotlinbox')
-//            storePassword 'kotlinbox'
-//            keyAlias = 'kotlinbox'
-//            keyPassword 'kotlinbox'
+//            storeFile file('/Users/ishuyun/synthdatasign/synthdata')
+//            storePassword 'synthdata'
+//            keyAlias = 'synthdata'
+//            keyPassword 'synthdata'
 //        }
 //    }
 
